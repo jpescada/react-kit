@@ -1,6 +1,6 @@
 # react-kit
 
-[![Dependency Status](https://david-dm.org/jpescada/react-kit)](https://david-dm.org/jpescada/react-kit.svg)
+[![Dependency Status](https://david-dm.org/jpescada/react-kit.svg)](https://david-dm.org/jpescada/react-kit)
 
 ---
 
