@@ -1,5 +1,7 @@
 # react-kit
 
+[![Build Status](https://travis-ci.org/jpescada/react-kit.svg?branch=master)](https://travis-ci.org/jpescada/react-kit)
+
 [![Dependency Status](https://david-dm.org/jpescada/react-kit.svg)](https://david-dm.org/jpescada/react-kit)
 
 ---
