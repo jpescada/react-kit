@@ -8,17 +8,17 @@
 ## About
 A ReactJS starter kit with Webpack, Babel 6, ES6, Hot Module Replacement, Linter and Sass.
 
-## Installation
+### Installation
 ```bash
 npm install
 ```
 
-## Run Development Server
+### Run Development Server
 ```bash
 npm run start
 ```
 
-## Build Production version
+### Build Production version
 ```bash
 npm run build
 ```
